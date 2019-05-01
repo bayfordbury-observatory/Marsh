@@ -1,0 +1,95 @@
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.exe.config
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.exe
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.pdb
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.exe
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.pdb
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.AboutBox1.resources
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.MainForm.resources
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.Properties.Resources.resources
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.Settings.resources
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.simbad.resources
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.SkyMap.resources
+C:\Users\David\Documents\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.csproj.GenerateResource.Cache
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.exe.config
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.exe
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.pdb
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.AboutBox1.resources
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.MainForm.resources
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.Properties.Resources.resources
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.Settings.resources
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.simbad.resources
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.SkyMap.resources
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.csproj.GenerateResource.Cache
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.exe
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.pdb
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.exe.config
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.exe
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.pdb
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.exe
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\MarshControl.pdb
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.AboutBox1.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.MainForm.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.Properties.Resources.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.Settings.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.simbad.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.SkyMap.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.csproj.GenerateResource.Cache
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.DomeWindow.resources
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\AstroLib.dll
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\bin\Debug\AstroLib.pdb
+C:\Users\Astro\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.LoadScreen.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.DomeWindow.resources
+C:\Users\David\Dropbox\vs2012\MarshControl\MarshControl\obj\Debug\MarshControl.LoadScreen.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\MarshControl.exe.config
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.exe
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.pdb
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\MarshControl.exe
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\MarshControl.pdb
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.Utilities.dll
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\AstroLib.dll
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.DriverAccess.xml
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.Utilities.xml
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\AstroLib.pdb
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.csprojResolveAssemblyReference.cache
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.AboutBox1.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.DomeWindow.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.LoadScreen.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.MainForm.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.Properties.Resources.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.Settings.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.simbad.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.SkyMap.resources
+C:\Users\David\OneDrive\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.csproj.GenerateResource.Cache
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\MarshControl.exe.config
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.exe
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.pdb
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\MarshControl.exe
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\MarshControl.pdb
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\AstroLib.dll
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\Microsoft.DirectX.dll
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\AstroLib.pdb
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\bin\Debug\Microsoft.DirectX.xml
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.AboutBox1.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.DomeWindow.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.LoadScreen.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.MainForm.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.Properties.Resources.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.Settings.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.simbad.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.SkyMap.resources
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.csproj.GenerateResource.Cache
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.csprojAssemblyReference.cache
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - University of Hertfordshire\VisualStudio\MarshControl\MarshControl\obj\Debug\MarshControl.csproj.CopyComplete
